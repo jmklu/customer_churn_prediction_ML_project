@@ -1,7 +1,8 @@
-# Predictive Modeling for Customer Churn: A Comparative Analysis of Decision Tree, Random Forest, and Neural Network Classifiers
+# Predictive Modeling for Customer Retention: A Comparative Analysis of Decision Tree, Random Forest, and Neural Network Classifiers
 
 **Overview:**
-This project employs machine learning to predict customer churn using a comparative analysis of Decision Tree, Random Forest, and Neural Network classifiers. The dataset includes features such as senior citizenship, tenure, internet service, and payment methods.
+This project employs machine learning to predict whether or not a mobile network subscriber will continue with the said provider after the initial subscription.
+This is made up of a comparative analysis of Decision Tree, Random Forest, and Neural Network classifiers. The dataset includes features such as senior citizenship, tenure, internet service, and payment methods.
 
 **Features:**
 - Utilizes `pandas`, `scikit-learn` for data analysis and machine learning.
